@@ -1,0 +1,9 @@
+- Pour affichier l'historique
+	$ git log
+
+- Pour afficher les branches (ainsi que la branche actuelle)
+	$ git branch		
+	* master
+
+
+git push -u origin main
